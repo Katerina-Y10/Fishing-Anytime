@@ -1,1 +1,16 @@
+# Unity 自动生成
 /Library/
+/Logs/
+/Temp/
+/Obj/
+/UserSettings/
+
+# 编译产物
+/Build/
+/Builds/
+/bin/
+/obj/
+
+# 系统文件
+.DS_Store
+Thumbs.db
