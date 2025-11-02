@@ -6,6 +6,7 @@ using UnityEngine.UI;
 
 public class Product : MonoBehaviour
 {
+    public string Name;
     public int price;
     public bool hasgoods;
     public bool repetition;
@@ -13,6 +14,7 @@ public class Product : MonoBehaviour
     public GameObject HookText;
     public GameObject PitchImage;
     public Shop shop;
+    public Transform backpack;
     private void Start()
     {
         GetComponent<Button>().onClick.AddListener(OnClick);
@@ -50,6 +52,14 @@ public class Product : MonoBehaviour
         {
             HookImage.SetActive(false);
             HookText.SetActive(false);
+        }
+        for(int i =0; i<9; i++)
+        {
+            
+            if(backpack.GetChild(i).GetComponent<Backpsack>().myName == Name)
+            {
+                backpack.GetChild(i).GetComponent<Backpsack>().number++;
+            }
         }
     }
 }

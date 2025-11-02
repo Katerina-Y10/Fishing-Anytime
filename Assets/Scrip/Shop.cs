@@ -10,6 +10,7 @@ public class Shop : MonoBehaviour
     public int money = 1000;
     public Text shopMoneyText;
     public Product product;
+    public Button shopClose;
 
     private void OnEnable()
     {
@@ -18,8 +19,15 @@ public class Shop : MonoBehaviour
     private void Start()
     {
         buy.onClick.AddListener(OnClick);
+        shopClose.onClick.AddListener(ShopCloseDown);
         shopMoneyText.text = money.ToString();
     }
+
+    private void ShopCloseDown()
+    {
+        gameObject.SetActive(false);
+    }
+
     //购买的时候需要知道购买的是那个Product;
     private void OnClick()
     {
