@@ -61,7 +61,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scrip\PullSpace.cs" />
-    <Compile Include="Assets\Scrip\Shop.cs" />
     <Compile Include="Assets\Scrip\CaptureProgressUI.cs" />
     <Compile Include="Assets\MobileARTemplateAssets\UI\Scripts\CutoutMaskUI.cs" />
     <Compile Include="Assets\MobileARTemplateAssets\Scripts\ARTemplateMenuManager.cs" />
@@ -72,7 +71,6 @@
     <Compile Include="Assets\Scrip\FishingUi.cs" />
     <Compile Include="Assets\MobileARTemplateAssets\Scripts\GoalManager.cs" />
     <Compile Include="Assets\Scrip\FishUI.cs" />
-    <Compile Include="Assets\Scrip\Product.cs" />
     <Compile Include="Assets\Settings\Project Configuration\SceneTemplate_RotateCube.cs" />
   </ItemGroup>
   <ItemGroup>
