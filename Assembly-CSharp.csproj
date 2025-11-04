@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{F1F1F361-058F-3452-B28C-84BA6C70EDB9}</ProjectGuid>
+    <ProjectGuid>{5F78F2F9-9DC4-5ED5-6458-FA9C9EC5A6FB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scrip\PullSpace.cs" />
+    <Compile Include="Assets\Scrip\Shop.cs" />
     <Compile Include="Assets\Scrip\CaptureProgressUI.cs" />
     <Compile Include="Assets\MobileARTemplateAssets\UI\Scripts\CutoutMaskUI.cs" />
     <Compile Include="Assets\MobileARTemplateAssets\Scripts\ARTemplateMenuManager.cs" />
@@ -68,9 +69,12 @@
     <Compile Include="Assets\Scrip\CaptureBar.cs" />
     <Compile Include="Assets\Scrip\PullSpaceBackButton.cs" />
     <Compile Include="Assets\Scrip\FishHook.cs" />
+    <Compile Include="Assets\Scrip\Pack.cs" />
     <Compile Include="Assets\Scrip\FishingUi.cs" />
     <Compile Include="Assets\MobileARTemplateAssets\Scripts\GoalManager.cs" />
+    <Compile Include="Assets\Scrip\Backpsack.cs" />
     <Compile Include="Assets\Scrip\FishUI.cs" />
+    <Compile Include="Assets\Scrip\Product.cs" />
     <Compile Include="Assets\Settings\Project Configuration\SceneTemplate_RotateCube.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -1212,19 +1216,19 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.ARStarterAssets.csproj">
-      <Project>{114251EC-72BC-F5D5-0FAD-0C0857F04FF1}</Project>
+      <Project>{F8657B58-FF0D-1C46-D6EA-BCC33B7818F7}</Project>
       <Name>Unity.XR.Interaction.Toolkit.Samples.ARStarterAssets</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj">
-      <Project>{A758C8DE-8A23-5D92-2D01-A70F08470E85}</Project>
+      <Project>{A39AAD1B-02D7-C93D-995B-390B88F47A49}</Project>
       <Name>Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj">
-      <Project>{3D8C5A13-8FA0-2F34-B432-4B4F32850CAA}</Project>
+      <Project>{0E75F192-1DB2-4EAE-418F-09C5DBD0C741}</Project>
       <Name>Unity.XR.Interaction.Toolkit.Samples.StarterAssets</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.ARStarterAssets.Editor.csproj">
-      <Project>{50A0831F-0DD8-B1AF-4644-27B8F507D4F6}</Project>
+      <Project>{434965AA-E70D-B03A-CA13-7523302544B6}</Project>
       <Name>Unity.XR.Interaction.Toolkit.Samples.ARStarterAssets.Editor</Name>
     </ProjectReference>
   </ItemGroup>
