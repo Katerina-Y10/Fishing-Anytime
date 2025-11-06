@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "D:\\Github\\Fishing-Anytime\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|d:\\github\\fishing-anytime\\assets\\scrip\\pullspacebackbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|solutionrelative:assets\\scrip\\pullspacebackbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|d:\\github\\fishing-anytime\\assets\\scrip\\armanagenment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|solutionrelative:assets\\scrip\\armanagenment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|d:\\github\\fishing-anytime\\assets\\scrip\\pullspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|solutionrelative:assets\\scrip\\pullspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|D:\\Github\\Fishing-Anytime\\assets\\shader\\featheredplaneshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\featheredplaneshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|D:\\Github\\Fishing-Anytime\\assets\\scrip\\fishingui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|solutionrelative:assets\\scrip\\fishingui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|D:\\Github\\Fishing-Anytime\\assets\\scrip\\pullspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|solutionrelative:assets\\scrip\\pullspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|D:\\Github\\Fishing-Anytime\\assets\\scrip\\pullspacebackbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|solutionrelative:assets\\scrip\\pullspacebackbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|D:\\Github\\Fishing-Anytime\\assets\\scrip\\fishui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,32 +39,55 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PullSpaceBackButton.cs",
-              "DocumentMoniker": "D:\\Github\\Fishing-Anytime\\Assets\\Scrip\\PullSpaceBackButton.cs",
-              "RelativeDocumentMoniker": "Assets\\Scrip\\PullSpaceBackButton.cs",
-              "ToolTip": "D:\\Github\\Fishing-Anytime\\Assets\\Scrip\\PullSpaceBackButton.cs",
-              "RelativeToolTip": "Assets\\Scrip\\PullSpaceBackButton.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABFAAAAAAAAAA==",
+              "Title": "ARManagenment.cs",
+              "DocumentMoniker": "D:\\Github\\Fishing-Anytime\\Assets\\Scrip\\ARManagenment.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrip\\ARManagenment.cs",
+              "ToolTip": "D:\\Github\\Fishing-Anytime\\Assets\\Scrip\\ARManagenment.cs",
+              "RelativeToolTip": "Assets\\Scrip\\ARManagenment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T14:20:51.823Z",
+              "WhenOpened": "2025-11-06T06:09:12.332Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "FeatheredPlaneShader.shader",
+              "DocumentMoniker": "D:\\Github\\Fishing-Anytime\\Assets\\Shader\\FeatheredPlaneShader.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\FeatheredPlaneShader.shader",
+              "ToolTip": "D:\\Github\\Fishing-Anytime\\Assets\\Shader\\FeatheredPlaneShader.shader",
+              "RelativeToolTip": "Assets\\Shader\\FeatheredPlaneShader.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-11-06T05:57:00.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PullSpaceBackButton.cs",
+              "DocumentMoniker": "D:\\Github\\Fishing-Anytime\\Assets\\Scrip\\PullSpaceBackButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrip\\PullSpaceBackButton.cs",
+              "ToolTip": "D:\\Github\\Fishing-Anytime\\Assets\\Scrip\\PullSpaceBackButton.cs",
+              "RelativeToolTip": "Assets\\Scrip\\PullSpaceBackButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T14:20:51.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "PullSpace.cs",
               "DocumentMoniker": "D:\\Github\\Fishing-Anytime\\Assets\\Scrip\\PullSpace.cs",
               "RelativeDocumentMoniker": "Assets\\Scrip\\PullSpace.cs",
               "ToolTip": "D:\\Github\\Fishing-Anytime\\Assets\\Scrip\\PullSpace.cs",
               "RelativeToolTip": "Assets\\Scrip\\PullSpace.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAAwEQAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAIwFYAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T12:58:36.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T12:58:36.449Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "FishUI.cs",
               "DocumentMoniker": "D:\\Github\\Fishing-Anytime\\Assets\\Scrip\\FishUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scrip\\FishUI.cs",
@@ -74,7 +105,7 @@
               "RelativeDocumentMoniker": "Assets\\Scrip\\FishingUi.cs",
               "ToolTip": "D:\\Github\\Fishing-Anytime\\Assets\\Scrip\\FishingUi.cs",
               "RelativeToolTip": "Assets\\Scrip\\FishingUi.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAADwvxkAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-27T12:29:48.251Z"
             }
