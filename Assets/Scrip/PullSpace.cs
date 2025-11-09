@@ -27,6 +27,8 @@ public class PullSpace : MonoBehaviour
     //绿色进度条移动速度
     public float greenMoveSpeed = 50f;
     public Text timeDown;
+    //方法在FishingUI里，需要在PullSpace里调用
+    public FishingUi fishingUi;
     private void OnEnable()
     {
         greenHighest = redRectTransform.rect.height - greenRectTransform.rect.height;
@@ -82,17 +84,18 @@ public class PullSpace : MonoBehaviour
             timeDown.text = i.ToString();
             yield return new WaitForSeconds(1);
         }
-        Debug.Log("当前高度"+blueRectTransform.sizeDelta.y);
-        Debug.Log("绿色底" + greenRectTransform.anchoredPosition.y);
-        Debug.Log("绿色顶" + greenRectTransform.anchoredPosition.y + greenRectTransform.sizeDelta.y);
+        //Debug.Log("当前高度"+blueRectTransform.sizeDelta.y);
+        //Debug.Log("绿色底" + greenRectTransform.anchoredPosition.y);
+        //Debug.Log("绿色顶" + greenRectTransform.anchoredPosition.y + greenRectTransform.sizeDelta.y);
         if (blueRectTransform.sizeDelta.y >= greenRectTransform.anchoredPosition.y && blueRectTransform.sizeDelta.y <= greenRectTransform.anchoredPosition.y + greenRectTransform.sizeDelta.y)
         {
             timeDown.text = "grasp";
-            Debug.Log("grasp");
+            //Debug.Log("grasp");
+            fishingUi.FishingResults("noFishhook");
         }
         else
         {
-            Debug.Log("Run");
+            //Debug.Log("Run");
             timeDown.text = "Run";
         }
     }

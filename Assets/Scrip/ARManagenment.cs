@@ -41,4 +41,5 @@ public class ARManagenment : MonoBehaviour
         planeManager.enabled = true;
         fishHole.SetActive(false);
     }
+    
 }
