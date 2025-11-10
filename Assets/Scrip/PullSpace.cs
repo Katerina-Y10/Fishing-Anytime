@@ -29,6 +29,10 @@ public class PullSpace : MonoBehaviour
     public Text timeDown;
     //方法在FishingUI里，需要在PullSpace里调用
     public FishingUi fishingUi;
+    //公开Pack脚本，用来获取当前正在用那个鱼钩的等级
+    public Pack pack;
+    //公开FailUI界面，需要先打开界面，再关掉竖向进度条。
+    public GameObject failUI;
     private void OnEnable()
     {
         greenHighest = redRectTransform.rect.height - greenRectTransform.rect.height;
@@ -53,10 +57,18 @@ public class PullSpace : MonoBehaviour
      if(isPress == false)
         {
             blueRectTransform.sizeDelta -= new Vector2(0, blueDownSpeed * Time.deltaTime);
+            if(blueRectTransform.sizeDelta.y <= 0)
+            {
+                blueRectTransform.sizeDelta = new Vector2(blueRectTransform.rect.width, 0);
+            }
         }
         else
         {
             blueRectTransform.sizeDelta += new Vector2(0, blueUpSpeed * Time.deltaTime);
+            if(blueRectTransform.sizeDelta.y >= 379f)
+            {
+                blueRectTransform.sizeDelta = new Vector2(blueRectTransform.rect.width, 379);
+            }
         }
        //绿色进度条的上下移动范围
        if (isUp == true)
@@ -91,12 +103,32 @@ public class PullSpace : MonoBehaviour
         {
             timeDown.text = "grasp";
             //Debug.Log("grasp");
-            fishingUi.FishingResults("noFishhook");
+            if(pack.hook == null)
+            {
+                fishingUi.FishingResults("noFishhook");
+                Debug.Log("无鱼钩");
+            }
+            else if (pack.hook.myClass == "bad")
+            {
+                fishingUi.FishingResults("generalFishhook");
+                Debug.Log("坏鱼钩");
+            }
+            else if (pack.hook.myClass == "good")
+            {
+                fishingUi.FishingResults("goodFishhook");
+                Debug.Log("好鱼钩");
+            }
+            
         }
         else
         {
             //Debug.Log("Run");
             timeDown.text = "Run";
+            failUI.SetActive(true);
+            gameObject.SetActive(false);
+
         }
+        gameObject.SetActive(false);
     }
+
 }

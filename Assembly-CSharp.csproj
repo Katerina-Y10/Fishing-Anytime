@@ -81,6 +81,7 @@
     <Compile Include="Assets\Scrip\FishData.cs" />
     <Compile Include="Assets\Scrip\FishUI.cs" />
     <Compile Include="Assets\Scrip\Product.cs" />
+    <Compile Include="Assets\Scrip\FailUI.cs" />
     <Compile Include="Assets\Settings\Project Configuration\SceneTemplate_RotateCube.cs" />
   </ItemGroup>
   <ItemGroup>

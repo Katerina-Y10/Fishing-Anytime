@@ -3,44 +3,60 @@
   "WorkspaceRootPath": "D:\\Github\\Fishing-Anytime\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|d:\\github\\fishing-anytime\\assets\\scrip\\scanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|solutionrelative:assets\\scrip\\scanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|D:\\Github\\Fishing-Anytime\\assets\\scrip\\armanagenment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|solutionrelative:assets\\scrip\\armanagenment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|D:\\Github\\Fishing-Anytime\\assets\\scrip\\fishui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|solutionrelative:assets\\scrip\\fishui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|D:\\Github\\Fishing-Anytime\\assets\\scrip\\startgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|solutionrelative:assets\\scrip\\startgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|D:\\Github\\Fishing-Anytime\\assets\\scrip\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|solutionrelative:assets\\scrip\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|D:\\Github\\Fishing-Anytime\\assets\\scrip\\pullspacebackbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|solutionrelative:assets\\scrip\\pullspacebackbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|d:\\github\\fishing-anytime\\assets\\scrip\\pullspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|solutionrelative:assets\\scrip\\pullspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|D:\\Github\\Fishing-Anytime\\assets\\scrip\\capturebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|solutionrelative:assets\\scrip\\capturebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|D:\\Github\\Fishing-Anytime\\assets\\scrip\\pullspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|solutionrelative:assets\\scrip\\pullspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|D:\\Github\\Fishing-Anytime\\assets\\scrip\\pullspacebackbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|solutionrelative:assets\\scrip\\pullspacebackbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|D:\\Github\\Fishing-Anytime\\assets\\scrip\\captureprogressui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|solutionrelative:assets\\scrip\\captureprogressui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|D:\\Github\\Fishing-Anytime\\assets\\scrip\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|solutionrelative:assets\\scrip\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|D:\\Github\\Fishing-Anytime\\assets\\scrip\\fishingui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|solutionrelative:assets\\scrip\\fishingui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|D:\\Github\\Fishing-Anytime\\assets\\scrip\\startgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|solutionrelative:assets\\scrip\\startgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|D:\\Github\\Fishing-Anytime\\assets\\scrip\\scanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|solutionrelative:assets\\scrip\\scanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|D:\\Github\\Fishing-Anytime\\assets\\scrip\\backpsack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|solutionrelative:assets\\scrip\\backpsack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|D:\\Github\\Fishing-Anytime\\assets\\scrip\\pack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|solutionrelative:assets\\scrip\\pack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|D:\\Github\\Fishing-Anytime\\assets\\scrip\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|solutionrelative:assets\\scrip\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|D:\\Github\\Fishing-Anytime\\assets\\scrip\\fishdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|solutionrelative:assets\\scrip\\fishdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|D:\\Github\\Fishing-Anytime\\assets\\scrip\\fishingui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|solutionrelative:assets\\scrip\\fishingui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|D:\\Github\\Fishing-Anytime\\assets\\scrip\\fishui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|solutionrelative:assets\\scrip\\fishui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|D:\\Github\\Fishing-Anytime\\assets\\scrip\\armanagenment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F1F361-058F-3452-B28C-84BA6C70EDB9}|Assembly-CSharp.csproj|solutionrelative:assets\\scrip\\armanagenment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,24 +66,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "D:\\Github\\Fishing-Anytime\\Assets\\Scrip\\Grade.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrip\\Grade.cs",
+              "ToolTip": "D:\\Github\\Fishing-Anytime\\Assets\\Scrip\\Grade.cs",
+              "RelativeToolTip": "Assets\\Scrip\\Grade.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvyMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T10:18:06.492Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CaptureProgressUI.cs",
+              "DocumentMoniker": "D:\\Github\\Fishing-Anytime\\Assets\\Scrip\\CaptureProgressUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrip\\CaptureProgressUI.cs",
+              "ToolTip": "D:\\Github\\Fishing-Anytime\\Assets\\Scrip\\CaptureProgressUI.cs",
+              "RelativeToolTip": "Assets\\Scrip\\CaptureProgressUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:47:40.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "D:\\Github\\Fishing-Anytime\\Assets\\Scrip\\Shop.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrip\\Shop.cs",
+              "ToolTip": "D:\\Github\\Fishing-Anytime\\Assets\\Scrip\\Shop.cs",
+              "RelativeToolTip": "Assets\\Scrip\\Shop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:42:12.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pack.cs",
+              "DocumentMoniker": "D:\\Github\\Fishing-Anytime\\Assets\\Scrip\\Pack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrip\\Pack.cs",
+              "ToolTip": "D:\\Github\\Fishing-Anytime\\Assets\\Scrip\\Pack.cs",
+              "RelativeToolTip": "Assets\\Scrip\\Pack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:02:25.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Backpsack.cs",
+              "DocumentMoniker": "D:\\Github\\Fishing-Anytime\\Assets\\Scrip\\Backpsack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrip\\Backpsack.cs",
+              "ToolTip": "D:\\Github\\Fishing-Anytime\\Assets\\Scrip\\Backpsack.cs",
+              "RelativeToolTip": "Assets\\Scrip\\Backpsack.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:04:15.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ScanManager.cs",
               "DocumentMoniker": "D:\\Github\\Fishing-Anytime\\Assets\\Scrip\\ScanManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scrip\\ScanManager.cs",
               "ToolTip": "D:\\Github\\Fishing-Anytime\\Assets\\Scrip\\ScanManager.cs",
               "RelativeToolTip": "Assets\\Scrip\\ScanManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvy0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T12:06:09.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T12:06:09.752Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "StartGame.cs",
               "DocumentMoniker": "D:\\Github\\Fishing-Anytime\\Assets\\Scrip\\StartGame.cs",
               "RelativeDocumentMoniker": "Assets\\Scrip\\StartGame.cs",
@@ -79,31 +155,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Grade.cs",
-              "DocumentMoniker": "D:\\Github\\Fishing-Anytime\\Assets\\Scrip\\Grade.cs",
-              "RelativeDocumentMoniker": "Assets\\Scrip\\Grade.cs",
-              "ToolTip": "D:\\Github\\Fishing-Anytime\\Assets\\Scrip\\Grade.cs",
-              "RelativeToolTip": "Assets\\Scrip\\Grade.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T10:18:06.492Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "FishingUi.cs",
               "DocumentMoniker": "D:\\Github\\Fishing-Anytime\\Assets\\Scrip\\FishingUi.cs",
               "RelativeDocumentMoniker": "Assets\\Scrip\\FishingUi.cs",
               "ToolTip": "D:\\Github\\Fishing-Anytime\\Assets\\Scrip\\FishingUi.cs",
               "RelativeToolTip": "Assets\\Scrip\\FishingUi.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAQwHAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAewGUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-27T12:29:48.251Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "FishData.cs",
               "DocumentMoniker": "D:\\Github\\Fishing-Anytime\\Assets\\Scrip\\FishData.cs",
               "RelativeDocumentMoniker": "Assets\\Scrip\\FishData.cs",
@@ -115,19 +179,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "PullSpace.cs",
               "DocumentMoniker": "D:\\Github\\Fishing-Anytime\\Assets\\Scrip\\PullSpace.cs",
               "RelativeDocumentMoniker": "Assets\\Scrip\\PullSpace.cs",
               "ToolTip": "D:\\Github\\Fishing-Anytime\\Assets\\Scrip\\PullSpace.cs",
               "RelativeToolTip": "Assets\\Scrip\\PullSpace.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAIwF0AAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAWwH0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T12:58:36.449Z"
+              "WhenOpened": "2025-10-27T12:58:36.449Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "CaptureBar.cs",
               "DocumentMoniker": "D:\\Github\\Fishing-Anytime\\Assets\\Scrip\\CaptureBar.cs",
               "RelativeDocumentMoniker": "Assets\\Scrip\\CaptureBar.cs",
@@ -139,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 13,
               "Title": "ARManagenment.cs",
               "DocumentMoniker": "D:\\Github\\Fishing-Anytime\\Assets\\Scrip\\ARManagenment.cs",
               "RelativeDocumentMoniker": "Assets\\Scrip\\ARManagenment.cs",
@@ -147,12 +212,11 @@
               "RelativeToolTip": "Assets\\Scrip\\ARManagenment.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAAwCUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T06:09:12.332Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T06:09:12.332Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "PullSpaceBackButton.cs",
               "DocumentMoniker": "D:\\Github\\Fishing-Anytime\\Assets\\Scrip\\PullSpaceBackButton.cs",
               "RelativeDocumentMoniker": "Assets\\Scrip\\PullSpaceBackButton.cs",
@@ -164,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "FishUI.cs",
               "DocumentMoniker": "D:\\Github\\Fishing-Anytime\\Assets\\Scrip\\FishUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scrip\\FishUI.cs",
@@ -172,8 +236,7 @@
               "RelativeToolTip": "Assets\\Scrip\\FishUI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T12:30:45.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T12:30:45.401Z"
             }
           ]
         }

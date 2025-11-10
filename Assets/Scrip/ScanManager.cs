@@ -12,6 +12,17 @@ public class ScanManager : MonoBehaviour
     public GameObject hole;
     public GameObject fishingUI;
     public GameObject fishRod;
+    
+
+    private void OnEnable()
+    {
+        hole.SetActive(false);
+        //aRManagenment.ResetAR();
+        scanButton.gameObject.SetActive(true);
+        hole.GetComponent<Animator>().SetBool("play", false);
+        hole.GetComponent<Animator>().SetBool("stop", true);
+        fishRod.SetActive(false);
+    }
     private void Start()
     {
         scanButton.onClick.AddListener(OnScanButtonDown);

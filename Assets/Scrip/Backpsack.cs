@@ -7,6 +7,7 @@ using UnityEngine.UI;
 public class Backpsack : MonoBehaviour
 {
     public string myName;
+    public string myClass;
     public int number;
     public GameObject goods;
     public GameObject backPackItems;
